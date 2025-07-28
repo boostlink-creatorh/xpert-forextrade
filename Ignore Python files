@@ -1,0 +1,15 @@
+# Ignore Python files
+*.pyc
+__pycache__/
+
+# Ignore node modules
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore Mac system files
+.DS_Store
